@@ -27,9 +27,9 @@ Purpose: A simple, one-page design with a clear call-to-action button.
 <h4>hoodie</h4>
 Purpose: A more detailed landing page featuring a section for text and another for an image.
 
-<h4>Usage</h4>
+<h3>Usage</h3>
 To view and use these landing pages, simply clone this repository and open the HTML files in any modern web browser.
 
-<h4>Contributing</h4>
+<h3>Contributing</h3>
 Feel free to fork this repository, make changes, and submit pull requests. If you want to suggest major changes, please open an issue to discuss before submitting a pull request.
 
