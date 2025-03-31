@@ -18,16 +18,16 @@ Customization: Easily customizable to fit your own content, branding, and goals.
 
 <h3>Landing Pages</h3>
 
-<h4>Landing Page 1</h4>
-Purpose: A simple, one-page design with a clear call-to-action button.
-
-<h4>Landing Page 2</h4>
+<h4>Art</h4>
 Purpose: A clean and minimalistic landing page with a hero image.
 
-<h4>Landing Page 3</h4>
+<h4>Coffee</h4>
+Purpose: A simple, one-page design with a clear call-to-action button.
+
+<h4>hoodie</h4>
 Purpose: A more detailed landing page featuring a section for text and another for an image.
 
-<h4>Installation & Usage</h4>
+<h4>Usage</h4>
 To view and use these landing pages, simply clone this repository and open the HTML files in any modern web browser.
 
 <h4>Contributing</h4>
