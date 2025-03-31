@@ -112,7 +112,7 @@ header {
 
 .header-img {
     border-radius: 100%;
-    background: url(oswaldo-ibanez-1NPUmTaiMeg-unsplash.jpg);
+    background: url(images/oswaldo-ibanez-1NPUmTaiMeg-unsplash.jpg);
     background-position: top;
     background-size: cover;
     width: 400px;
@@ -131,7 +131,7 @@ header {
 }
 
 .section-one-img {
-    background: url(gesphotoss-1i9K55ni5Dk-unsplash.jpg);
+    background: url(images/gesphotoss-1i9K55ni5Dk-unsplash.jpg);
     background-position: top;
     background-size: cover;
 }
