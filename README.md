@@ -3,7 +3,7 @@
 <h3>Overview</h3>
 <b><i>
 This repository contains three unique landing pages designed using HTML and CSS. Each landing page is built with a focus on clean design, responsiveness, and user-friendly interfaces. These landing pages can be easily customized for various use cases, such as product promotions, event sign-ups, or general business landing pages.
-<b><i>
+<b></b>i>
 
 <h3>Features</h3>
 <ul>
