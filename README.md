@@ -20,12 +20,15 @@ Customization: Easily customizable to fit your own content, branding, and goals.
 
 <h4>Art</h4>
 Purpose: A clean and minimalistic landing page with a hero image.
+<img src="C:\Users\shah yaksh\Downloads\Art.png" width="500"/>
 
 <h4>Coffee</h4>
 Purpose: A simple, one-page design with a clear call-to-action button.
+<img src="C:\Users\shah yaksh\Downloads\coffee.png" width="500"/>
 
 <h4>hoodie</h4>
 Purpose: A more detailed landing page featuring a section for text and another for an image.
+<img src="C:\Users\shah yaksh\Downloads\hoodie.png" width="500"/>
 
 <h3>Usage</h3>
 To view and use these landing pages, simply clone this repository and open the HTML files in any modern web browser.
